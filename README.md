@@ -4,7 +4,7 @@ The project uses the mushroom images dataset uploaded from the Kaggle website (h
 
 The purpose of the project is to apply transfer learning for training classifiers that would be able to correctly classify mushrooms - that is, to provide labels to images of various mushrooms, corresponding to their actual classes.
 
-The file 'mushrooms_geras_copy.ipynb' consists of two parts:
+The file 'mushrooms_final.ipynb' consists of two parts:
 
 - the exploratory analysis of the dataset of mushroom images;
 - building, training, fine-tuning, and evaluating classifiers able to predict mushroom classes as well as predicting mushroom classes based on the trained models.
